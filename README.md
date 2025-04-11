@@ -1,8 +1,8 @@
-# 本博客介绍｜Introduction for this blog｜このブログの紹介
+# 本博客介绍｜Introduction of this blog｜このブログの紹介
 
-这是 mskk 的博客。用于记录 mskk 的各种日常、经验、教程、研究等内容。
+这是 mskk 的博客。用于写 mskk 的各种日常、经验、教程、研究等内容。
 
-This is blog of mskk. Using for recording daily, experience, tutorial, research, etc. of mskk.
+This is blog of mskk. Using for writing daily, experience, tutorial, research, etc. of mskk.
 
 これは mskk のブログ。mskk の日常、経験、教程、研究の記入を利用する。
 
