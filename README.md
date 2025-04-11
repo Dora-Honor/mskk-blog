@@ -4,7 +4,7 @@
 
 This is blog of mskk. Using for recording daily, experience, tutorial, research, etc. of mskk.
 
-これは mskk のブログ。mskk の日常、経験、教程、研究を書く利用する。
+これは mskk のブログ。mskk の日常、経験、教程、研究の記入を利用する。
 
 本人的其他社交平台账号｜My account on other SNS platform｜本人の他の SNS アカウント
 
