@@ -1,4 +1,4 @@
-# mskk-blog.github.io
+# 本博客介绍｜Introduction for this blog｜このブログの紹介
 
 这是 mskk 的博客。用于记录 mskk 的各种日常、经验、教程、研究等内容。
 
