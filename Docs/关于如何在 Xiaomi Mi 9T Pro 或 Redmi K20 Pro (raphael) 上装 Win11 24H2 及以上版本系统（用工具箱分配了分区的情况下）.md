@@ -1,6 +1,6 @@
 # 关于如何在 Xiaomi Mi 9T Pro / Redmi K20 Pro (raphael) 上重装 Win11 24H2 (26100) 及以上版本系统（用工具箱分配了分区的情况下）
 
-所需工具：
+# 所需工具
 
 [Mindows 工具箱](https://mindows.cn)
 
@@ -14,7 +14,7 @@ Xiaomi Mi 9T Pro / Redmi K20 Pro (raphael) 一台
 
 丰富的计算机知识
 
-　
+# 正文
 
 最近想在 Xiaomi Mi 9T Pro / Redmi K20 Pro (raphael) 上，通过 Mindows 工具箱安装 Windows 11 IoT 企业版 LTSC 2024，突然发现 Mindows 工具箱还不支持 24H2 及以上版本 WIM，选择之后会报错。如图所示：
 ![](https://raw.githubusercontent.com/Dora-Honor/mskk-blog/refs/heads/main/Images/250415/250415-1.png)
