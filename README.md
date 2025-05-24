@@ -6,6 +6,12 @@ The blog of mskk. Using for writing daily, experience, tutorial, research, etc. 
 
 これは mskk のブログ。mskk の日常、経験、教程、研究の記入を利用する。
 
+## 发表评论的方法 | How to relate comments | コメントを発表の方法
+
+- 在 [Issues](https://github.com/Dora-Honor/mskk-blog/issues) 里提交即可。
+- Relating on [Issues](https://github.com/Dora-Honor/mskk-blog/issues).
+- [Issues](https://github.com/Dora-Honor/mskk-blog/issues) に発表する。
+
 ## SNS
 
 * [小红书 Xiaohongshu/Redbook](https://www.xiaohongshu.com/user/profile/63b56120000000002702a843)
