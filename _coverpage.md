@@ -7,4 +7,4 @@
 - 私は皆さんが大好きだよ
 
 [GitHub](https://github.com/Dora-Honor/mskk-blog)
-[开始吧 Get Started](README.md)
+[开始吧 Get Started 始めよう](README.md)
