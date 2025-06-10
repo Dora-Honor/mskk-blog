@@ -27,3 +27,7 @@ The blog of mskk. Using for writing daily, experience, tutorial, research, etc. 
 * [网易云音乐 NetEase Cloud Music](https://music.163.com/#/user/home?id=436313178)
 * [米游社 Miyoushe](https://www.miyoushe.com/ys/accountCenter/postList?id=295708491)
 * [HoYoLAB](https://hoyolab.com/accountCenter/postList?id=300847631)
+
+## 所用模板 | Used Templates | 使用したテンプレート
+- [docsify](https://docsify.js.org/)
+- [docsify GitHub](https://github.com/docsifyjs/docsify/)
