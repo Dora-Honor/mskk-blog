@@ -1,4 +1,0 @@
-title: mskk 的个人博客       # mskk 的个人博客
-theme: minima          # 使用 GitHub 默认主题
-plugins:
-  - jekyll-feed       # 启用 RSS 订阅
