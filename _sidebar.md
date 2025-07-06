@@ -10,6 +10,9 @@
   - [关于 sunflower2333 大佬的 MIX 2s (polaris) 音频驱动安装和使用问题的总结](Docs/关于%20sunflower2333%20大佬的%20MIX%202s%20(polaris)%20音频驱动安装和使用问题的总结.md)
   - [关于如何在 Xiaomi Mi 9T Pro / Redmi K20 Pro (raphael) 上重装 Win11 24H2 (26100) 及以上版本系统（用工具箱分配了分区的情况下）](Docs/关于如何在%20Xiaomi%20Mi%209T%20Pro%20或%20Redmi%20K20%20Pro%20(raphael)%20上装%20Win11%2024H2%20及以上版本系统（用工具箱分配了分区的情况下）.md)
   - [关于小米 MIX 2s 安装双系统后，原 MIUI 软重启问题](Docs/关于小米%20MIX%202s%20安装双系统后，原%20MIUI%20软重启问题.md)
+  - [Hexo + Butterfly 评论系统配置总结](Docs/Hexo%20%2B%20Butterfly%20评论系统配置总结.md)
+    - [本人配置 Giscus 的总结](Docs/Hexo%20%2B%20Butterfly%20%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E6%80%BB%E7%BB%93.md#%E6%9C%AC%E4%BA%BA%E9%85%8D%E7%BD%AE-giscus-%E7%9A%84%E6%80%BB%E7%BB%93)
+    - [参考资料](Docs/Hexo%20%2B%20Butterfly%20%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E6%80%BB%E7%BB%93.md#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
 - **【经验】**
   - [如何解决英特尔平台本子的屏幕亮度、对比度忽高忽低问题](Docs/如何解决英特尔平台本子的屏幕亮度、对比度忽高忽低问题.md)
 - **【持续更新中 | Continous Updating | 続けて更新する】**
