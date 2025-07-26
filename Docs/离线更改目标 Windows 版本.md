@@ -73,7 +73,7 @@ dism /Unmount-Image /MountDir:X:\xxx /commit
 # 「X」处需自行替换成自己镜像的对应目录。最后的 /commit 保存更改命令不要遗漏。
 ```
 
-## Windows 10 IoT 企业版 LTSC 2021、Windows 11 IoT 企业版 LTSC 及以后版本
+## Windows 10 IoT 企业版 LTSC 2021、Windows 11 IoT 企业版 LTSC 2024 及以后版本
 
 - 对于 LTSC 2021 及以上版本，非 IoT 版仅有 5 年支持，而 IoT 版有 10 年支持。
 - 无需转换 SKU 的版本仅有英文镜像。
