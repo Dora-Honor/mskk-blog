@@ -1,6 +1,4 @@
-- [.github](.github/)
-  - [workflows](.github/workflows/)
-- [Docs](Docs/)
+- [Docs]
   - [20250617 一些看法](Docs/20250617%20一些看法.md)
   - [Hexo + Butterfly 评论系统配置总结](Docs/Hexo%20+%20Butterfly%20评论系统配置总结.md)
   - [Markdown-demo](Docs/Markdown-demo.md)
@@ -18,4 +16,3 @@
   - [江西农业产业及种植收获方式分析](Docs/江西农业产业及种植收获方式分析.md)
   - [离线更改目标 Windows 版本](Docs/离线更改目标%20Windows%20版本.md)
   - [给自己留学毕业后定的 flag](Docs/给自己留学毕业后定的%20flag.md)
-- [README_JA](README_JA.md)
