@@ -1,16 +1,13 @@
 # GFM 演示
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> 这是一个提示信息。
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> 这是一个警告信息。
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> [!TIP]
+> 这是一个成功小贴士。
+
+> [!IMPORTANT]
+> 这是一个重要提示。
