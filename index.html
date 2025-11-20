@@ -26,41 +26,25 @@
       loadSidebar: true,
       auto2top: true,
       coverpage: true,
+      'flexible-alerts': {
+        note: {
+          label: '备注'
+        },
+        tip: {
+          label: '提示'
+        },
+        warning: {
+          label: '警告'
+        },
+        important: {
+          label: '重要'
+        },
+        attention: {
+          label: '注意'
+        }
+      },
       markdown: {
         gfm: true,
-        renderer: {
-          // 2. 自定义块引用的渲染逻辑
-          blockquote: function (quote) {
-            // 定义支持的警告类型及其匹配关键词
-            const alertTypes = {
-              'note': ['note', 'info'],
-              'warning': ['warning', 'caution', 'attention'],
-              'tip': ['tip', 'success'],
-              'important': ['important']
-            };
-
-            let matchedType = null;
-
-            // 检查块引用内容是否以特定警告标记开头
-            for (const [type, keywords] of Object.entries(alertTypes)) {
-              const pattern = new RegExp(`^\\[!(${keywords.join('|')})\\]\\s+`, 'i');
-              if (pattern.test(quote)) {
-                matchedType = type;
-                // 移除标记，保留纯文本内容
-                quote = quote.replace(pattern, '');
-                break;
-              }
-            }
-
-            // 如果匹配到警告类型，渲染为带特定类的 div；否则渲染为默认 blockquote
-            if (matchedType) {
-              return `<div class="markdown-alert markdown-alert-${matchedType}">${quote}</div>`;
-            }
-
-            // 默认情况返回标准的块引用
-            return `<blockquote>${quote}</blockquote>`;
-          }
-        }
       },
       giscus: {
         repo: "Dora-Honor/mskk-blog",
@@ -120,6 +104,7 @@
   <script src="https://unpkg.com/docsify-giscus@1.0.0/dist/docsify-giscus.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-footnote/dist/docsify-footnote.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked-gfm-heading-id/lib/index.umd.js"></script>
   <!-- 代码高亮  https://cdn.jsdelivr.net/npm/prismjs@1/components/ -->
@@ -151,4 +136,5 @@
   <!-- emoji -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
+
 </html>
