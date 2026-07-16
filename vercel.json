@@ -1,5 +1,6 @@
 {
   "regions": ["sin1"],
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
