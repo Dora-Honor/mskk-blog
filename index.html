@@ -15,8 +15,10 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      basePath: '/',
       name: 'mskk 的个人博客',
-      repo: 'https://github.com/Dora-Honor/mskk-blog',
+      nameLink: '/',
+      repo: 'Dora-Honor/mskk-blog',
       loadFooter: true,
       loadSidebar: true,
       auto2top: true,
@@ -56,6 +58,19 @@
         lang: "zh-CN",
         loading: "lazy"
       },
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/lexmin0412/docsify-website-sample/blob/master/docs/',
+          null,
+          function ( file ) {
+            if ( file.indexOf( 'en' ) === -1 ) {
+              return '在 GitHub 上编辑'
+            } else {
+              return 'Edit on Github'
+            }
+          }
+        )
+      ],
       // 页面右侧 TOC
       toc: {
         tocMaxLevel: 2,
